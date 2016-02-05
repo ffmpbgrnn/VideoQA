@@ -1,0 +1,7 @@
+datasets/MED_easy.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/MED_hard.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/MPII_easy.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/MPII_hard.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/TACoS_easy.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/TACoS_hard.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/meta_tasks.pkl filter=lfs diff=lfs merge=lfs -text
