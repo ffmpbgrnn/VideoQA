@@ -6,6 +6,8 @@ Dataset and source code for the paper [Uncovering Temporal Context for Video Que
 - Current dataset is the one we used in our arXiv v1 paper.
 - See `sample.py` for details.
 
-
 ### Source code
 - Will be available upon request.
+
+### Download
+- You need to install [git-lfs](https://github.com/github/git-lfs) first.
