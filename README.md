@@ -13,3 +13,5 @@ Dataset and source code for the paper [Uncovering Temporal Context for Video Que
 - You need to install [git-lfs](https://github.com/github/git-lfs) first.
   - Download git-lfs on your OS;
   - Initialize with `git lfs install`
+- If you don't have access to `git-lfs`, you can download the dataset directly from
+[Google Drive](https://drive.google.com/file/d/0B_z0UB56K4lpbTY2bUlGWUxTR1E/view?usp=sharing) or [Baidu Yun](http://pan.baidu.com/s/1gfpqVcf).
